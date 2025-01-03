@@ -1,17 +1,21 @@
-# Python_Projects
+# Python Projects
 Repository for The Tech Academy's Python course.
 
 ## Projects
-- [Nice or Mean Game](#nice_or_mean_game)
-- [Database Submission Assignment](#database_submission_assignment)
-- [Inheritance Assignment](#inheritance_assignment)
+- [Nice or Mean Game](#nice-or-mean-game)
+- [Database Submission Assignment](#database-assignment)
+- [Inheritance Assignment](#inheritance-assignment)
+- [Polymorphism Assignment](#polymorphism-assignment)
 
 
-### Nice_or_Mean_Game
+### Nice or Mean Game
 Simple text-based game that presents choices to the user, takes input, and keeps track of a score.
 
-### Database_Submission_Assignment
+### Database Assignment
 Creates a database, adds a table, loops through a list of file names and adds files to the table that have the '.txt' file extention.
 
-### Inheritance_assignment
+### Inheritance Assignment
 Example of creating a class and creating two children of that class with their own attributes.
+
+### Polymorphism Assignment
+Example of creating a class, two children of that class, and utilizing polymorphism to perform the same function in different ways.
