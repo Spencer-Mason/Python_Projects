@@ -7,6 +7,7 @@ Repository for The Tech Academy's Python course.
 - [Inheritance Assignment](#inheritance-assignment)
 - [Polymorphism Assignment](#polymorphism-assignment)
 - [Student Tracking App](#student-tracking-app)
+- [Encapsulation Assignment](#encapsulation-assignment)
 
 
 ### Nice or Mean Game
@@ -23,3 +24,6 @@ Example of creating a class, two children of that class, and utilizing polymorph
 
 ### Student Tracking App
 Application made using Python 3 and tkinter for keeping track of student information. Utilizes .grid, entry boxes, listbox and more.
+
+### Encapsulation Assignment
+File demonstrating use of protected/private attributes.
