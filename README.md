@@ -10,6 +10,7 @@ Repository for The Tech Academy's Python course.
 - [Encapsulation Assignment](#encapsulation-assignment)
 - [Abstraction Assignment](#abstraction-assignment)
 - [File Transfer Assignment](#file-transfer-assignment)
+- [Web Page Generator](#web-page-generator)
 
 
 ### Nice or Mean Game
@@ -35,3 +36,6 @@ File demonstrating use of an abstract class and method, with examples of what NO
 
 ### File Transfer Assignment
 Application that will move all files that have been modified within the last 24 hours from a selected source directory to a selcected destination directory.
+
+### Web Page Generator
+Application that generates a simple web page with either default hard-coded body content or custom entered content.
