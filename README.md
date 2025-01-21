@@ -11,6 +11,7 @@ Repository for The Tech Academy's Python course.
 - [Abstraction Assignment](#abstraction-assignment)
 - [File Transfer Assignment](#file-transfer-assignment)
 - [Web Page Generator](#web-page-generator)
+- [Django University](#django-university)
 
 
 ### Nice or Mean Game
@@ -39,3 +40,6 @@ Application that will move all files that have been modified within the last 24 
 
 ### Web Page Generator
 Application that generates a simple web page with either default hard-coded body content or custom entered content.
+
+### Django University
+Simple example of using Django to create a site for managing information for a university.
